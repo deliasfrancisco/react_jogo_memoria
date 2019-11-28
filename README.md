@@ -25,7 +25,7 @@ Esse é um jogo comum usando Bootstrap de CSS, ao iniciar a execução do jogo a
 
 ## Redes Sociais e Portfólio
 
-[E-mail](deliasfrancisco@gmail.com)
+[E-mail](malito:deliasfrancisco@gmail.com)
 
 [Twitter](https://twitter.com/DiegoNancius)
 
