@@ -6,7 +6,7 @@
 
 Abra o terminal CMD ou Git Bash e digite:
 
-### `git clone https://github.com/deliasfrancisco/calculadora_react.git`
+### `https://github.com/deliasfrancisco/react_jogo_memoria.git`
 
 Agora que você clonou o projeto para o seu computador, será necessário instalar todas as dependências para a aplicação rodar diretamente no localhost. Para isso, digite o comando abaixo e espere a instalação terminar:
 
@@ -21,11 +21,11 @@ Lembrando que essa aplicação é para fins academicos e esta para avaliação!
 
 ## Como Funciona a jogo !!
 
-Esse é um jogo comum usando Bootstrap de CSS, para iniciar o jogo aparecerá uma tela de modal, para liberar o jogo pressione o botâo ESC
+Esse é um jogo comum usando Bootstrap de CSS, ao iniciar a execução do jogo aparecerá uma tela de modal, para liberar o jogo pressione o botâo ESC
 
 ## Redes Sociais e Portfólio
 
-deliasfrancisco@gmail.com
+[E-mail](deliasfrancisco@gmail.com)
 
 [Twitter](https://twitter.com/DiegoNancius)
 
